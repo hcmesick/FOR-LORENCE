@@ -101,11 +101,28 @@
     <div class="card" id="card" onclick="openCard()">
       <div class="cover"></div>
       <div class="inside">
-        <h1>Happy Birthday!</h1>
+        <h1> HAPPY 15TH BDAY !! </h1>
         <div class="heart">♥</div>
         <p>
 
-LETTER
+HAPPY BIRTHDAY TOLLLL, MISS YOU SMM!
+Hwehwehw lowk andami kong gustong sabihin hahah but first, I just wanna say how much I appreciate you 
+so saur much. You’re one of the most AMAZING, MABAIT, and UNDERSTANDING people I know hihihi. You have 
+no idea how grateful I am that I met and got to know a person like you.
+
+We’ve only known each other for a few years, pero highkey it feels like ang tagal na nating magkaibigan, 
+kahit minsan bitin pa nga ang pagsasama natin hwahahaha. Miss ko narin mga , tawanan natin sa gilid kahit
+walang sense minsan hahaha, chikahan and pag palaging magkatabi tayo. Those moments would made my whole day 
+during Grade 8 frfr. And btw ang dami ng nakakamiss sayo sa USL HAHAHA
+
+I’m also super duper thankful na you were always there for me when I was at my lowest, lalo na noong Grade 8. 
+You listened to me kahit you were going through your own struggles too huhu and that means so much to me. You 
+hab no idea how much your presence helped me get through those times hihi. 
+
+And I want you to know that I’m always here for you, no matter what hehe. I hope your day is filled with nothing 
+but love, happiness, and blessings because you truly deserve it. Sana maglast pa tayo for many more years to come, 
+and I excited ako for next gala natin hihi.
+
 
         </p>
       </div>
